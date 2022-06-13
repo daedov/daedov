@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Social Network](https://github.com/cazavi/SCL020-social-network)
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning on [Laboratoria](https://www.laboratoria.la/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

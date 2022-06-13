@@ -2,8 +2,6 @@
 <img src="Banner.jpg" alt="frontend" /> 
 <h3 align="center">A FrontEnd Developer from Santiago, Chile.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daedov&label=Profile%20views&color=0e75b6&style=flat" alt="daedov" /> </p>
-
 - 🔭 I’m currently working on [Social Network](https://github.com/cazavi/SCL020-social-network)
 
 - 🌱 I’m currently learning on [Laboratoria](https://www.laboratoria.la/)
@@ -19,4 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daedov&show_icons=true&locale=en&layout=compact" alt="daedov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daedov&show_icons=true&locale=en" alt="daedov" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daedov&label=Profile%20views&color=0e75b6&style=flat" alt="daedov" /> </p>
 

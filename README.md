@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniela Aedo (daedov)</h1>
+<img src="Banner.jpg" alt="frontend" /> 
 <h3 align="center">A FrontEnd Developer from Santiago, Chile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daedov&label=Profile%20views&color=0e75b6&style=flat" alt="daedov" /> </p>

@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniela Aedo (daedov)</h1>
-<img src="banner.png" alt="frontend developer" /> 
-<h3 align="center">From Santiago, Chile.</h3>
+<h3 align="center">About me</h3>
 
 - 🔭 I’m currently working on [Social Network](https://github.com/cazavi/SCL020-social-network)
 

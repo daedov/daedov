@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniela Aedo (daedov)</h1>
 <h3>About me</h3>
 
-- 🔭 I’m currently working on [Social Network](https://github.com/cazavi/SCL020-social-network)
-
+- 🔭 I’m currently working on [LabNotes](https://github.com/daedov/LabNotes)
+- 👯 The latest collaborative project was [PlantGram](https://socialnetworkplantgram.netlify.app/?) with [Caro](https://github.com/cazavi) and [Heike](https://github.com/Htineo)
 - 🌱 I’m currently learning on [Laboratoria](https://www.laboratoria.la/)
+- 👨‍💻 All of my projects are available [here <3](https://github.com/daedov?tab=repositories)
+- 📫 How to reach me daedov@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

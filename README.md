@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daniela Aedo (daedov)</h1>
-<h3>About me</h3>
-- Web Developer in training from Santiago, Chile.
+<h1 align="center">Hi 👋, I'm Daniela Aedo </h1>
+<h3 align="center">Web Developer from Santiago, Chile.</h3>
+
+<h3>About me:</h3>
+
 - 🔭 I’m currently working on [LabNotes](https://github.com/daedov/LabNotes)
 - 👯 The latest collaborative project was [PlantGram](https://socialnetworkplantgram.netlify.app/?) with [Caro](https://github.com/cazavi) and [Heike](https://github.com/Htineo)
 - 🌱 I’m currently learning Web Development on [Laboratoria](https://www.laboratoria.la/)

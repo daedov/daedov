@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniela Aedo </h1>
-<h3 align="center">Web Developer Junior from Santiago, Chile.</h3>
+<h3 align="center">Junior Web Developer</h3>
 
 <h3>About me:</h3>
 

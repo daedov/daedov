@@ -3,7 +3,7 @@
 
 <h3>About me:</h3>
 
-- 🔭 I’m currently working on [Burger Queen API](https://github.com/katyfernanda/BQAPI)
+- 🔭 I’m currently working on [Burger Queen API](https://github.com/katyfernanda/BQAPI) with [Kathy](https://github.com/katyfernanda)
 - 👯 The latest collaborative project was [PlantGram](https://socialnetworkplantgram.netlify.app/?) with [Caro](https://github.com/cazavi) and [Heike](https://github.com/Htineo)
 - 🌱 I’m currently learning Web Development on [Laboratoria](https://www.laboratoria.la/)
 - 👨‍💻 All of my projects are available [here <3](https://github.com/daedov?tab=repositories)

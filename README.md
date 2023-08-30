@@ -4,7 +4,7 @@
 <h3>About me:</h3>
 
 - 👯 The latest collaborative project was [Burger Queen API](https://github.com/katyfernanda/BQAPI) with [Kathy](https://github.com/katyfernanda)
-- 🌱 I’m currently learning Android and Kotlin
+- 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

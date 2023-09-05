@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniela Aedo </h1>
+<h1 align="center">Hi there 👋, I'm Daniela Aedo </h1>
 <h3 align="center">A Web Developer from Valparaíso, Chile</h3>
 
 <h3>About me:</h3>

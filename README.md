@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center" ><b>Junior Software Engineer at </b> <a href="https://cl.nttdata.com">NTT DATA Europe & Latam</a></h4>
+<h4 align="center" ><b>Process & System Technician at </b> <a href="https://cl.nttdata.com">NTT DATA Europe & Latam</a></h4>
 <br>
 
 ###

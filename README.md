@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center" ><b>Process & System Technician at </b> <a href="https://cl.nttdata.com">NTT DATA Europe & Latam</a></h4>
+<h4 align="center" ><b>Cloud Computing & DevOps </b> <a href="#"></a></h4>
 <br>
 
 ###
@@ -76,6 +76,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -87,22 +89,11 @@
 </div>
 
 ###
-<div align="center">
-  <img src="https://raw.githubusercontent.com/daedov/daedov/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daedov&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&layout=compact&hide_border=false&order=1" height="150" alt="daedov" />
 <img src="https://github-readme-stats.vercel.app/api?username=daedov&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="daedov" />
 </div>
 <br>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/daedov/count.svg?"  />
-</div>
 
 ###
